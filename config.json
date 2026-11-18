@@ -58,6 +58,19 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build REST APIs with FastAPI, including routes, path parameters, and request validation.",
+      "path": "assignments/fastapi-rest-apis",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
